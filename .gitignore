@@ -130,3 +130,6 @@ dmypy.json
 
 # Pycharm project setting
 .idea
+
+# Client Secrets
+client_secrets.json
