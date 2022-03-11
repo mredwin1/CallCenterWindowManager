@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyyaml = "~=6.0"
+requests = "~=2.27.1"
+google-auth-oauthlib = "~=0.4.6"
+websockets = "~=10.1"
+pywin32 = "*"
+tk = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
